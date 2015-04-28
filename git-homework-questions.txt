@@ -5,7 +5,7 @@ How would you find out what files are currently staged?
   By typing "git status" into Terminal and seeing which files are green.
 
 How would you add a file to the staging area?
-
+  By typing "git add filename" or "git add ." into Terminal
 
 How would you commit your changes with the message
 Adding git-test questions ?
